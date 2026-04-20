@@ -1,4 +1,4 @@
-import datetime, bday_message
+import datetime, python.python_section1.exercise41.bday_message as bday_message
 
 today = datetime.date.today()
 next_birthday = datetime.date(2025,12,7)
